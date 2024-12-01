@@ -3,22 +3,28 @@
 <h3 align="center"> A Passionate Data Science Enthusiast from Kerala, India 👨‍💻</h3>
 
 <br/>
-A curious technophile and aspiring data scientist passionate about transforming raw data into meaningful insights. Currently navigating the exciting landscape of data science and analysis using Python.
 
-## 🚀 About Me
-- 📊 Data Science Enthusiast: Exploring the depths of statistical modeling, machine learning, and data visualization.
-- 💻 Python Aficionado: Proficient in Python programming for data analysis, scripting, and automation.
-- 🌐 Open Source Advocate: Contributing to open-source projects to foster collaboration and learning.
-- 🎓 Lifelong Learner: Committed to continuous learning and staying updated on the latest trends in technology.
+<p><strong> Welcome to my GitHub! 🌟 I’m a data science enthusiast at the start of an exciting journey in the world of technology. Passionate about turning raw data into meaningful insights, I’m building my skills in Python, SQL, and machine learning while exploring tools like Tableau and Jupyter Notebook.</strong></p>
 
-## 🔧 Tech Stack
-- Languages: Python, SQL,Machine learning, Deep Learning
-- Tools: Jupyter Notebook, VS Code, Tableau, Google Colab
-- Libraries/Frameworks: Pandas, NumPy, Scikit-Learn, TensorFlow, Ploty, Scipy
-- Databases: MySQL, SQLite
+</br>
+
+Eager to collaborate on projects, learn from the community, and contribute to impactful solutions. Let’s connect and grow together! 🚀
+
+<br/>
+⚙️ Tech Stack
+
+<ul>
+  
+<li> Languages: Python, SQL </li>
+<li> Libraries/Frameworks: Pandas, NumPy, Scikit-Learn, TensorFlow, Matplotlib </li>
+<li> Tools: Jupyter Notebook, Tableau, Google Colab, VS Code </li>
+<li> Databases: MySQL, SQLite </li>
+
+</ul>
+</br>
+
+📧 You can reach me at [swathykrishnamany01@gmail.com](swathykrishnamany01@gmail.com)<br>
+🔗 You can find me on linkedin at [www.linkedin.com/in/swathy-krishna-](www.linkedin.com/in/swathy-krishna-)
 
 
-## 📫 Let's Connect!
-- LinkedIn: [Swathy Krishna](www.linkedin.com/in/swathy-krishna-)
 
-Excited about the endless possibilities of technology and data. Let's code, learn, and build together! 🌟
