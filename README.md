@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Swathy👋 </h1>
 
-<h3 align="center"> A passionate Data Science Enthusiast from Kerala, India 👨‍💻</h3>
+<h3 align="center"> A Passionate Data Science Enthusiast from Kerala, India 👨‍💻</h3>
 
 <br/>
 A curious technophile and aspiring data scientist passionate about transforming raw data into meaningful insights. Currently navigating the exciting landscape of data science and analysis using Python.
