@@ -23,7 +23,7 @@ Eager to collaborate on projects, learn from the community, and contribute to im
 </ul>
 </br>
 
-📧 You can reach me at <strong><a href="mailto:swathykrishnamany01@gmail.com>swathykrishnamany01@gmail.com</a></strong><br>
+📧 You can reach me at <strong>swathykrishnamany01@gmail.com</a></strong><br>
 🔗 You can find me on linkedin at <strong>[www.linkedin.com/in/swathy-krishna-](www.linkedin.com/in/swathy-krishna-)</strong>
 
 
