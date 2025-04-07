@@ -1,5 +1,5 @@
 # Hi, I'm Swathy Krishna 
-<h2 align="center"><strong>🚀 Full Stack Developer & Data Science Enthusiast | Kerala, India</strong></h2>
+<h2><strong>🚀 Full Stack Developer & Data Science Enthusiast | Kerala, India</strong></h2>
 
 
 
