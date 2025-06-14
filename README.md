@@ -1,10 +1,28 @@
-<h1 align="center"> Hi, I'm Swathy Krishna </h1>
+# <h1 align="center"> 👋 Hi there, I'm Swathy Krishna </h1>
+
 <h2><strong>🚀 Full Stack Developer & Data Science Enthusiast | Kerala, India</strong></h2>
 
+🎓 A BCA graduate from **Amrita Vishwa Vidyapeetham**, India  
+💻 Passionate about technology, full stack development, and data-driven solutions  
+🎧 When I’m not coding, I love dancing and listening to music 🎶
+<br>
 
+## 💡 What I Do
 
-<br><br>🧠 Passionate about turning ideas into applications and data into insights<br>💡 Exploring Full Stack Development with Python, Django, HTML, CSS & JavaScript<br>📊 Diving into Data Science with Pandas, NumPy, and Scikit-learn<br>📌 Learning machine learning and data visualization using Tableau & Jupyter Notebook<br>🔧 Always building, learning, and experimenting<br>🌍 Let’s connect, collaborate, and grow together!<br><br>
-<h3 align="center">Be courageous. Go the extra mile. Never stop learning. 🤍</h3>
+- 🔧 Exploring **Full Stack Development** with `Python`, `Django`, `HTML`, `CSS`, `JavaScript`
+- 📊 Learning **Data Science** using `Pandas`, `NumPy`, `Scikit-learn`
+- 📌 Creating dashboards and visual stories using `Tableau` & `Jupyter Notebook`
+- 🧪 Diving into **Machine Learning**, solving real-world challenges one project at a time
+<br>
+
+## 🚀 Always Building, Always Growing
+
+- 🌱 Constantly learning and experimenting with new tech
+- 🤝 Open to collaboration on tech projects
+- 🌍 Ready to connect, share ideas, and grow together!
+<br>
+
+<h3 align="center"> 🕊️ *“Be courageous. Go the extra mile. Never stop learning.”* 🤍</h3>
 <br>
 
 
