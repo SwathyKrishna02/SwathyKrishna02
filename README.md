@@ -81,7 +81,6 @@
 ---
 
 ## 🎯 Goals (2025)
-- 🧑‍🎓 Pursue **Master’s in Data Science abroad**  
 - 🔍 Work on **unique AI + Data Science projects**  
 - 💼 Land opportunities in **MNCs / Research / Startups**  
 - ✍️ Share my journey via **GitHub & YouTube**  
