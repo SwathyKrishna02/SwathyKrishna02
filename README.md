@@ -1,84 +1,114 @@
-# <h1 align="center"> 👋 Hi there, I'm Swathy Krishna </h1>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:9b30ff&height=200&section=header&text=👋%20Hi%20I'm%20Swathy%20Krishna&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=40"/>
+</p>
 
-<h2><strong>🚀 Full Stack Developer & Data Science Enthusiast | Kerala, India</strong></h2>
+<h2 align="center"><strong>🚀 Full Stack Developer & Data Science Enthusiast | Kerala, India</strong></h2>
 
-🎓 A BCA graduate from **Amrita Vishwa Vidyapeetham**, India  
-💻 Passionate about technology, full stack development, and data-driven solutions  
-🎧 When I’m not coding, I love dancing and listening to music 🎶
-<br>
-
-## 💡 What I Do
-
-- 🔧 Exploring **Full Stack Development** with `Python`, `Django`, `HTML`, `CSS`, `JavaScript`
-- 📊 Learning **Data Science** using `Pandas`, `NumPy`, `Scikit-learn`
-- 📌 Creating dashboards and visual stories using `Tableau` & `Jupyter Notebook`
-- 🧪 Diving into **Machine Learning**, solving real-world challenges one project at a time
-<br>
-
-## 🚀 Always Building, Always Growing
-
-- 🌱 Constantly learning and experimenting with new tech
-- 🤝 Open to collaboration on tech projects
-- 🌍 Ready to connect, share ideas, and grow together!
-<br>
-
-<h3 align="center"> 🕊️ *“Be courageous. Go the extra mile. Never stop learning.”* 🤍</h3>
-<br>
-
-
-# 🌐 Find Me in:
-
-<a href="mailto:swathykrishnamany01@gmail.com" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f69f9436-6253-4ba1-a39c-4f9113b60b66" height="30" /></a>
-<a href="https://www.linkedin.com/in/swathy-krishna-/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" height="30" /></a>
-<a href="https://www.youtube.com/@swathykrishna8267" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=19318&format=png" height="30" /></a>
-<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=30998&format=png" height="30" /></a>
-<a href="https://stackoverflow.com/users/30648907/swathy-krishna" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13955&format=png" height="30" /></a>
-<br><br>
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge) 
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge)
-![seaborn](https://img.shields.io/badge/seaborn-4B8BBE?logo=python&logoColor=white&style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-FFA500?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00BFFF?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF7F50?style=for-the-badge&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-1F77B4?style=for-the-badge&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-32CD32?style=for-the-badge&logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white)
-<br><br>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SwathyKrishna02&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=SwathyKrishna02&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SwathyKrishna02&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+🎓 BCA Graduate from <b>Amrita Vishwa Vidyapeetham</b> <br>
+💻 Passionate about technology, full-stack development, data-driven solutions & AI/ML <br>
+🎶 Fun fact: I love <b>dancing</b> & <b>listening to music</b> 🎧
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SwathyKrishna02&icon=5&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+- 🎓 BCA Graduate (2023) | Data Science Enthusiast  
+- 📊 Currently refreshing **Data Science**: Python, ML, SQL, Power BI, Tableau, NLP & CV  
+- 🌱 Learning **Full-Stack Development**: Python, Django, React, REST APIs  
+- 🤖 Exploring **AI/ML applications** in healthcare, language learning & creative industries  
+- 💭 Lifelong learner → documenting my journey & growth on GitHub  
+
+---
+
+## 💡 What I Do
+- 🔧 Developing **Full Stack Applications** using `Python`, `Django`, `HTML`, `CSS`, `JavaScript`  
+- 📊 Learning **Data Science** with `Pandas`, `NumPy`, `Scikit-learn`  
+- 📌 Creating dashboards & visual stories using `Tableau` & `Jupyter Notebook`  
+- 🧪 Diving into **Machine Learning** to solve real-world problems  
+
+---
+
+## 🛠️ Tech Stack & Currently Learning
+
+<p align="center">
+<b>🌐 Frontend & Design</b><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,canva&perline=7"/>
+</p>
+
+<p align="center">
+<b>⚙️ Backend & Programming</b><br>
+<img src="https://skillicons.dev/icons?i=python,django,php,java,cs,cpp,c,androidstudio&perline=7"/>
+</p>
+
+<p align="center">
+<b>🛢️ Databases & Cloud</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&perline=7"/>
+</p>
+
+<p align="center">
+<b>🤖 Data Science & AI/ML</b><br>
+<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<p align="center">
+<b>📊 Visualization & Tools</b><br>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20365-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+</p>
+
+<p align="center">
+<b>📚 Currently Learning</b><br>
+<img src="https://img.shields.io/badge/Deep%20Learning-9b30ff?style=for-the-badge&logo=deeplearning&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8a2be2?style=for-the-badge&logo=nlp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-6a0dad?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-9932cc?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-8b008b?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack%20Apps-7b68ee?style=for-the-badge&logo=django&logoColor=white"/>
+</p>
+
+---
+
+## 🎯 Goals (2025)
+- 🧑‍🎓 Pursue **Master’s in Data Science abroad**  
+- 🔍 Work on **unique AI + Data Science projects**  
+- 💼 Land opportunities in **MNCs / Research / Startups**  
+- ✍️ Share my journey via **GitHub & YouTube**  
+
+---
+
+## 🌐 Find Me On
+<p align="center">
+<a href="mailto:swathykrishnamany01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/swathy-krishna-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.youtube.com/@swathykrishna8267"><img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/30648907/swathy-krishna"><img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SwathyKrishna02&theme=radical&show_icons=true&hide_border=true" height="160"/>
+<img src="https://streak-stats.demolab.com?user=SwathyKrishna02&theme=radical&hide_border=true" height="160"/>
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwathyKrishna02&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8a2be2,100:9b30ff&height=180&section=footer"/>
+</p>
