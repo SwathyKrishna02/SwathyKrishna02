@@ -70,6 +70,7 @@
 
 <p align="center">
 <b>📚 Currently Learning</b><br>
+<img src="https://img.shields.io/badge/Machine%20Learning-4B0082?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-9b30ff?style=for-the-badge&logo=deeplearning&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-8a2be2?style=for-the-badge&logo=nlp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-6a0dad?style=for-the-badge&logo=opencv&logoColor=white"/>
